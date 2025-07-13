@@ -7,4 +7,18 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
-<changes>
+## [2.0.0-beta.1] - 2025-07-13
+
+### Changed
+
+- Added episodic_2007 search path in gameinfo.txt
+
+### Removed
+
+- SourceModPatcher tokens in gameinfo.txt
+
+## [1.0.0] - 2024-07-21
+
+### Added
+
+- Initial release in SourceModPatcher
